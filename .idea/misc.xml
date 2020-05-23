@@ -7,6 +7,14 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/test0522/pom.xml" />
+        <option value="$PROJECT_DIR$/gmallparent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-web-util/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-user-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-order-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall-manage-service/pom.xml" />
       </list>
     </option>
   </component>

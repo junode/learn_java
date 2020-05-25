@@ -1,2 +1,2 @@
 # gmall_prac
-here is the demo from shangguigu 
+here is the demo for learning elasticsearch

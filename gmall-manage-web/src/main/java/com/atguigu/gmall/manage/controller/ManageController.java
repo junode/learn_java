@@ -57,4 +57,6 @@ public class ManageController {
         BaseAttrInfo attrInfo = manageService.getAttrInfo(attrId);
         return attrInfo.getAttrValueList();
     }
+
+
 }
